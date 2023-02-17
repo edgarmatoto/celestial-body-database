@@ -1,1 +1,1 @@
-# celestial-body-database for fcc
+# build celestial-body-database with PostgreSQL
